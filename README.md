@@ -7,9 +7,9 @@
 ---
 
 ### 💻 Sobre Mim
-- 🌱 Aprimorando habilidades em **Vue.js, JavaScript, e CSS**
+- 🌱 Aprimorando habilidades em **VueJS, JavaScript, e CSS**
 - 👯 Colaborando em projetos na **TI Gestor**
-- ⚡ Fun fact: Viciado em café, música e jogos!
+- ⚡ Fun fact: participei da guerra fria
 
 ---
 
