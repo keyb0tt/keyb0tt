@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Aqui é piq blaiders</h1>
+<h1 align="center">Olá! 👋</h1>
 
 <p align="center">
   Desenvolvedor Front-end Júnior | Entusiasta de Tecnologia | Estagiário
