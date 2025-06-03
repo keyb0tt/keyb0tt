@@ -7,7 +7,7 @@
 <p align="center">
   Desenvolvedor Front-end Júnior | Entusiasta de Tecnologia | Estagiário
 </p>
-<pre>
+<pre align="center">
                               ____
         ____....----''''````    |.
 ,'''````            ____....----; '.
