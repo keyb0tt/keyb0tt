@@ -70,12 +70,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyb0tt&layout=compact&theme=radical"/>
 </div>
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula)
-
-![3D Contribuições](https://github-profile-3d-contrib.vercel.app/profile?username=SEUUSERNAME)
-
-![Activity Heatmap](https://ghchart.rshah.org/SEUUSERNAME)
-
 ---
 
 ### 🤝 Vamos Conectar!
