@@ -1,7 +1,7 @@
-<h1 align="center">Olá! 👋 Aqui é o Kaíque</h1>
+<h1 align="center">Olá! 👋 Aqui é piq blaiders</h1>
 
 <p align="center">
-  Desenvolvedor Front-end Júnior | Entusiasta de Tecnologia | Estagiário esforçado :D
+  Desenvolvedor Front-end Júnior | Entusiasta de Tecnologia | Estagiário
 </p>
 
 ---
