@@ -2,7 +2,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
 
-<h1 align="center">Olá! 👋</h1>
+<h1 align="center">Olá!</h1>
 
 <p align="center">
   Desenvolvedor Front-end Júnior | Entusiasta de Tecnologia | Estagiário
@@ -35,10 +35,10 @@
 
 ---
 
-### 💻 Sobre Mim
-- 🌱 Aprimorando habilidades em **VueJS, JavaScript, e CSS**
-- 👯 Colaborando em projetos na **TI Gestor**
-- ⚡ Fun fact: participei da guerra fria
+### Sobre Mim
+-  Aprimorando habilidades em **VueJS, JavaScript, e CSS**
+-  Colaborando em projetos na **TI Gestor**
+-  Fun fact: participei da guerra fria
 
 ---
 
@@ -47,7 +47,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-### 🛠️ Frameworks
+### Frameworks
 <i class="devicon-canva-original"></i>
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff)](#)
@@ -83,13 +83,13 @@
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
-### 🌐 Browser
+### Browser
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)
 [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keyb0tt&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyb0tt&layout=compact&theme=radical"/>
@@ -97,7 +97,7 @@
 
 ---
 
-### 🤝 Vamos Conectar!
+### Conexoes
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
