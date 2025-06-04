@@ -5,7 +5,7 @@
 <h1 align="center">Olá!</h1>
 
 <p align="center">
-  Desenvolvedor Front-end Júnior | Entusiasta de Tecnologia | Estagiário
+  | Desenvolvedor front-end estagiário | Futuro engenheiro de software |  
 </p>
 <pre align="center">                         __    _                                   
                     _wr""        "-q__                             
@@ -42,6 +42,11 @@
 
 ---
 
+### Database
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 ### Linguagens
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -86,7 +91,6 @@
 ### Browser
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)
 [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)
-
 ---
 
 ### Estatísticas do GitHub
