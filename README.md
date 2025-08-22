@@ -5,7 +5,7 @@
 <h1 align="center">Olá!</h1>
 
 <p align="center">
-  | Front-end estagiário | Futuro engenheiro de software |  
+  | Front-end estagiário | 
 </p>
 <pre align="center">                         __    _                                   
                     _wr""        "-q__                             
