@@ -7,7 +7,7 @@
 <p align="center">
   | Front-end estagiário | 
 </p>
-<pre align="center">                                  
+<pre>                                  
                             ,-.
        ___,---.__          /'|`\          __,---,___
     ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
